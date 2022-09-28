@@ -1,6 +1,6 @@
 ### Hola Mundo 👋
 
-<!--
+
 
 Actualmente estoy en la busqueda de mi primer trabajo en desarrollo luego de obtener el titulo de Desarrollador Web Full Stack en la academia Henry, 
 la cual recomiendo sin duarlo.
@@ -18,4 +18,4 @@ por mail:
 sergiolongo@gmail.com
 
 
---!>
+
