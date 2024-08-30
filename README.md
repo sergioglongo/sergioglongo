@@ -1,19 +1,24 @@
-### Hola Mundo 👋
+## Hola Mundo 👋
+Soy Sergio, un Desarrollador Web Full Stack con 2 años de experiencia en el campo del desarrollo de software. Con 4 años de cursado de la carrera Ingenieria en Sistemas y tras completar una certificación en la academia Henry, donde adquirí conocimientos sólidos y prácticos, he trabajado en diversas empresas que me han permitido aplicar mis habilidades en proyectos reales de poca, mediana y gran complejidad en diversas tecnologías. 
+Me apasiona resolver problemas y enfrentar desafíos que se me presenten. Disfruto de la oportunidad de analizar situaciones complejas y encontrar soluciones efectivas. Esta habilidad me ha ayudado a mejorar mis capacidades de pensamiento crítico y a colaborar de manera más efectiva con mis compañeros de equipo y mis superiores.
 
+### Mis Skills adquiridas son:
+JavaScript  | TypeScript | NodeJS | Express | Sequelize | Socket.io | ReactJS | Redux | Redux Toolkit | CSS | Boostrap | Tailwind | Git | Bitbucket | React Native | Ionic React | Angular | Python | Mysql | PostgreSQL | Google Cloud Platform
 
+* **Front-end:**
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>](https://developer.mozilla.org/es/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>](https://es.react.dev/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30"/>](https://redux.js.org/) [<img src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" alt="CSS3" width="30" height="30"/>](https://developer.mozilla.org/es/docs/Web/HTML) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>](https://developer.mozilla.org/es/docs/Web/CSS) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>](https://getbootstrap.com/) [ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30"/>](https://tailwindcss.com/) [  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="30" height="30"/>](https://ionicframework.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30"/>](https://angular.dev/)
 
-#Actualmente estoy en la busqueda de mi primer trabajo en desarrollo luego de obtener el titulo de Desarrollador Web Full Stack en la academia Henry, la cual recomiendo sin duarlo.
-#Aprendi de manera intensiva y llevando toda la teoria a la practica a traves de un proyecto individual y un proyecto grupal, los cuales estan disponibles en mi repositorio.
-##Mis Skills adquiridas son:
-JavaScript | TypeScript | NodeJS | Express | PostgreSQL | | Sequelize | ReactJS | Redux | Redux Toolkit | CSS | Boostrap | Tailwind | Git
-Estoy realizando un curso certificado de React Native en Udemy, dejo un proyecto practico tambien en el repositorio.
-##En cuanto a mis soft Skills:
-Creativo | Curioso | Paciente | Tranquilo | Honesto | Comprometido | Flexible | De Fácil aprendizaje | Formación Continua | De Fácil Adaptación
+* **Back-end:**
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>](https://nodejs.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>](https://expressjs.com) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="30" height="30"/>](https://sequelize.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>](https://www.python.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>](https://www.python.org/) [<img src="https://e7.pngegg.com/pngimages/184/491/png-clipart-php-php.png" alt="MySQL" width="50" height="30"/>](https://www.php.net) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>](https://www.postgresql.org/)
 
-##Puedes contactarme en LinkedIn:
+* **Otros:**
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>](https://github.com/ )[<img src="https://w7.pngwing.com/pngs/404/31/png-transparent-bitbucket-icon-hd-logo-thumbnail.png" alt="Git" width="30" height="30"/>](https://bitbucket.org) [<img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="Git" width="30" height="30"/>](https://code.visualstudio.com/)  [<img src="https://img2.freepnges.com/20190612/vok/kisspng-cloud-computing-google-cloud-platform-cloud-storag-google-cloud-logo-png-image-free-download-searchpn-1713887351272.webp" alt="Google Cloud Platform" width="30" height="30"/>](https://cloud.google.com/)
+
+### En cuanto a mis soft Skills:
+Creativo | Curioso | Paciente | Honesto | Comprometido | Flexible |  Empático
+
+### Puedes contactarme en LinkedIn:
 https://www.linkedin.com/in/sergio-longo-7987b458/
-##por mail:
-sergiolongo@gmail.com
-
-
+### Email: 
+[sergiolongo@gmail.com](mailto:sergiolongo@gmail.com "sergiolongo@gmail.com")
 
